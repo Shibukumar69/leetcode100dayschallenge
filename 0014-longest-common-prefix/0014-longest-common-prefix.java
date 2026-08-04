@@ -3,14 +3,14 @@ class Solution {
         Arrays.sort(strs);
        String str1=strs[0];
        String str2=strs[strs.length-1];
-        int i=0;
-        while(i<str1.length() && i<str2.length() ){
-            if(str1.charAt(i)==str2.charAt(i)){
-                i++;
+        int count=0;
+         for(int i=0;i<str1.length() && i<str2.length();i++){
+            if(str1.charAt(i)== str2.charAt(i)){
+               count++;
             } else {
-                 break;
+                break;
             }
-        } 
-        return str1.substring(0,i);
+         }
+          return str1.substring(0,count);
     }
 }
