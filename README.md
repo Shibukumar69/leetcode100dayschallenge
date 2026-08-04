@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
 ## Trie
 |  |
