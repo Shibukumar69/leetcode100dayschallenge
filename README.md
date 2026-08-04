@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -20,6 +21,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0038-count-and-say) |
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
