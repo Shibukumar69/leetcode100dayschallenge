@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0242-valid-anagram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
