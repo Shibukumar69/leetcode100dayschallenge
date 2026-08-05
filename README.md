@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
