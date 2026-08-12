@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0382-linked-list-random-node) |
+| [0707-design-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0382-linked-list-random-node) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
