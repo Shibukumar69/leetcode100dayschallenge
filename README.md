@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0078-subsets) |
+| [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0707-design-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
