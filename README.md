@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 ## Linked List
 |  |
