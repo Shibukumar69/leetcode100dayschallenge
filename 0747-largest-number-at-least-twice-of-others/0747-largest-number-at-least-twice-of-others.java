@@ -9,7 +9,7 @@ class Solution {
                 l1=nums[i];
                 k=i;
             } 
-             else if(nums[i]<l1 && l2<nums[i]){
+             else if(nums[i] < l1 && l2 < nums[i]){
                 l2=nums[i];
              }
         } 
