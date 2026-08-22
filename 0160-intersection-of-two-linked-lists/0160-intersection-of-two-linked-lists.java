@@ -5,7 +5,6 @@ public class Solution {
         }
        ListNode A=headA; 
        ListNode B=headB; 
-       
        while(A!=null && B!=null){
         A=A.next;
         B=B.next;
