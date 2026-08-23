@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
