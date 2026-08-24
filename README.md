@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
