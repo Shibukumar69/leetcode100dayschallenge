@@ -3,9 +3,9 @@ class Solution {
         if(root==null){
             return true;
         }
-        int lefth=height(root.left);
-        int righth=height(root.right);
-        if(Math.abs(lefth-righth)>1){
+        int left=height(root.left);
+        int right=height(root.right);
+        if(Math.abs(left-right)>1){
             return false;
         }
         return isBalanced(root.left) && isBalanced(root.right);
@@ -16,8 +16,8 @@ class Solution {
          if(root==null){
             return 0;
          }
-           int lefth=height(root.left);
-           int righth=height(root.right);
-           return 1+Math.max(lefth,righth);
+           int left=height(root.left);
+           int right=height(root.right);
+           return 1+Math.max(left,right);
      }
 }
