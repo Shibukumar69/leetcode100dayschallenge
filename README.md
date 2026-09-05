@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
