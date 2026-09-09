@@ -2,7 +2,6 @@
 class Solution {
     public ListNode[] splitListToParts(ListNode head, int k) {
        ListNode[] ans = new ListNode[k];
-        int index=0;
         ListNode temp=head;
         // length  of linkedlist
         int length=0;
