@@ -7,8 +7,8 @@ class Solution {
          if(root.val>=low && root.val<=high){
             sum=sum+root.val;
          }
-        sum=sum+ rangeSumBST(root.left,low,high);
-        sum=sum+ rangeSumBST(root.right,low,high);
+        sum=sum+ rangeSumBST(root.left,low,high) + rangeSumBST(root.right,low,high);
+     
         return sum;
     }
 }
