@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -279,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0938-range-sum-of-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
