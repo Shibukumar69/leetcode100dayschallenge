@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1710-maximum-units-on-a-truck](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1710-maximum-units-on-a-truck](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1710-maximum-units-on-a-truck) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
