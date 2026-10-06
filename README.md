@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0066-plus-one) |
 | [0382-linked-list-random-node](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0382-linked-list-random-node) |
