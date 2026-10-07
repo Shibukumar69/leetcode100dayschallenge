@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Trie
 |  |
