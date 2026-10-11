@@ -21,9 +21,10 @@ class Solution {
         }
         StringBuilder res = new StringBuilder();
         while (!ans.isEmpty()) {
-            res.append(ans.removeLast());
+             res.append(ans.peek());
+             ans.pop();
         }
-        return res.toString();
+        return res.reverse().toString();
          
          
 }
