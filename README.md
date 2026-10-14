@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1684-count-the-number-of-consistent-strings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
