@@ -1,6 +1,5 @@
 class Solution {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if(root==null) return null;
         if(p==root || q==root) return root;
         if(p==q) return q;
         if(p.val<root.val && q.val>root.val) return root;
