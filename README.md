@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1019-next-greater-node-in-linked-list) |
 ## String Matching
 |  |
