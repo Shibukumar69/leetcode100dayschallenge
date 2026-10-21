@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1710-maximum-units-on-a-truck) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0739-daily-temperatures) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/1019-next-greater-node-in-linked-list) |
 ## String Matching
 |  |
 | ------- |
