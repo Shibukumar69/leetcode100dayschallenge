@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0547-number-of-provinces) |
 | [0938-range-sum-of-bst](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -357,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Shibukumar69/leetcode100dayschallenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
